@@ -1,0 +1,285 @@
+System Info: 
+Model: sdk_gphone64_x86_64
+ID: TRA4.221021.001.B1
+SDK Version: 33
+Manufacturer: Google
+Brand: google
+User: android-build
+Type: user
+Base: 1
+Incremental: 9228118
+Board: goldfish_x86_64
+Host: abfarm-release-2004-0036
+FingerPrintL: google/sdk_gphone64_x86_64/emu64xa:TiramisuPrivacySandbox/TRA4.221021.001.B1/9228118:user/release-keys
+Release Version: 13
+
+Network Info: 
+SSID: <unknown ssid>
+ BSSID: 02:00:00:00:00:00
+ MAC: 02:00:00:00:00:00
+ IP: /10.0.2.16
+ Security type: 0
+ Supplicant state: COMPLETED
+ Wi-Fi standard: 1
+ RSSI: -50
+ Link speed: 1Mbps
+ Tx Link speed: 1Mbps
+ Max Supported Tx Link speed: 11Mbps
+ Rx Link speed: 2Mbps
+ Max Supported Rx Link speed: 11Mbps
+ Frequency: 2447MHz
+ Net ID: -1
+ Metered hint: false
+ score: 60
+ isUsable: true
+ CarrierMerged: false
+ SubscriptionId: -1
+ IsPrimary: -1
+ Trusted: true
+ Restricted: false
+ Ephemeral: false
+ OEM paid: false
+ OEM private: false
+ OSU AP: false
+ FQDN: <none>
+ Provider friendly name: <none>
+ Requesting package name: <none><none>MLO Information: 
+ AP MLD Address: <none>
+ AP MLO Link Id: <none>
+ AP MLO Affiliated links: <none>
+ipaddr: 10.0.2.16
+gateway: 10.0.2.2
+netmask: 0.0.0.0
+dns1: 10.0.2.3
+dns2: 0.0.0.0
+DHCP Server: 10.0.2.2
+lease: 86400 seconds
+
+
+Applications On The Device: 
+apps: 
+Tethering
+com.android.connectivity.resources.emulator.overlay
+com.android.cts.priv.ctsshim
+YouTube
+System UWB Resources
+Corner cutout
+Android Services Library
+Double cutout
+Phone and Messaging Storage
+Dynamic System Updates
+Google
+Cell Broadcast Service
+Calendar Storage
+com.android.providers.media
+Google One Time Init
+Android Shared Library
+Gestural Navigation Bar
+com.android.wallpapercropper
+com.android.managedprovisioning.auto_generated_rro_product__
+com.android.carrierconfig.auto_generated_rro_vendor__
+Filled
+Filled
+com.android.simappdialog.auto_generated_rro_product__
+External Storage
+HTML Viewer
+Companion Device Manager
+MmsService
+Download Manager
+com.android.systemui.auto_generated_rro_product__
+Messages
+Sounds
+Pixel Wallpapers 18
+CyberLabAttackFinal
+ConfigUpdater
+Filled
+Media Storage
+Filled
+Filled
+com.google.android.overlay.googlewebview
+com.android.systemui.plugin.globalactions.wallet
+Downloads
+OsuLogin
+Google Play Store
+PacProcessor
+Sim App Dialog
+Android System
+Punch Hole cutout
+Tall cutout
+Certificate Installer
+com.android.carrierconfig
+3 Button Navigation Bar
+Android System
+Contacts
+Camera
+Magic Date
+com.google.android.sdksandbox
+Android S Easter Egg
+MTP Host
+Nfc Service
+com.android.ons
+SIM Toolkit
+com.android.backupconfirm
+com.android.systemui.auto_generated_rro_vendor__
+Clock
+2 Button Navigation Bar
+Gmail
+Gestural Navigation Bar
+Permission controller
+Filled
+Filled
+Filled
+Android Setup
+com.android.emulator.radio.config
+Settings Storage
+com.android.sharedstoragebackup
+com.android.nfc.auto_generated_rro_product__
+Print Spooler
+com.android.emergency.auto_generated_rro_product__
+Basic Daydreams
+com.google.android.networkstack.tethering.emulator
+com.android.providers.settings.auto_generated_rro_product__
+SecureElementApplication
+Input Devices
+com.android.traceur.auto_generated_rro_product__
+Digital Wellbeing
+Phone
+Default Print Service
+SuperCheap
+Filled
+Filled
+Filled
+CaptivePortalLogin
+MusicFX
+Drive
+Maps
+Main components
+Emu01 display cutout
+Markup
+com.android.providers.settings.auto_generated_rro_vendor__
+com.android.cellbroadcastreceiver
+Android System WebView
+com.google.android.bluetooth.services
+Network manager
+Phone Calls
+Key Chain
+com.android.server.telecom.auto_generated_rro_product__
+com.google.android.overlay.googleconfig
+Chrome
+com.android.bips.auto_generated_rro_product__
+Package installer
+Pixel Themes
+Google Play services
+Google Services Framework
+Tags
+Speech Services by Google
+com.google.android.overlay.permissioncontroller
+Call Log Backup/Restore
+Google Partner Setup
+CameraExtensionsProxy
+Google Wallpaper Images
+com.android.localtransport
+Pixel Launcher
+com.google.android.nearby.halfsheet
+CarrierDefaultApp
+Noto Serif / Source Sans Pro
+ProxyHandler
+Google Safety Center Resources
+Waterfall cutout
+System Connectivity Resources
+com.android.providers.contacts.auto_generated_rro_product__
+Market Feedback Agent
+Print Service Recommendation Service
+Photos
+Calendar
+Work Setup
+Sounds
+Files
+Filled
+Android Security Suite Premium
+Support components
+SystemUIGX
+Emulator Multi Display Provider
+com.android.providers.partnerbookmarks
+Calc
+Live Wallpaper Picker
+com.android.providers.telephony.auto_generated_rro_product__
+com.android.phone.auto_generated_rro_vendor__
+Main components
+com.android.imsserviceentitlement
+com.google.android.sdksetup
+Family Link parental controls
+Filled
+Filled
+Filled
+Storage Manager
+Bookmark Provider
+com.google.android.overlay.pixelconfigcommon
+Settings
+Filled
+Filled
+Settings Services
+Android Auto
+com.android.cts.ctsshim
+System Wi-Fi Resources
+RemoteProvisioner
+com.google.android.wifi.dialog
+VpnDialogs
+Wallpaper & style
+Phone Services
+Shell
+com.android.wallpaperbackup
+Blocked Numbers Storage
+com.android.settings.auto_generated_rro_product__
+User Dictionary
+Emergency information
+Gestural Navigation Bar
+Fused Location
+System UI
+com.google.android.ondevicepersonalization.services
+YouTube Music
+Bluetooth MIDI Service
+Cross-Device Services
+System Tracing
+com.android.storagemanager.auto_generated_rro_product__
+Wireless emergency alerts
+com.android.phone.auto_generated_rro_product__
+android.auto_generated_rro_product__
+Bluetooth
+Contacts Storage
+Gestural Navigation Bar
+Gboard
+android.auto_generated_rro_vendor__
+Data Restore Tool
+
+
+Language: en_US
+
+Country: US
+
+
+Storage Info: 
+Available Space: 4.282867431640625 GB
+
+Contacts Info: 
+ID: 1
+Name: Eylon Cyber
+Phone Number: 1 (234) 56
+Email: eylon@gmail.com
+
+ID: 2
+Name: Michael Cyber
+Phone Number: 1 (234) 567-89
+Email: michael@gmail.com
+
+ID: 3
+Name: Harel Cyber
+Phone Number: (987) 654-321
+Email: harel@gmail.com
+
+
+Accounts Info: 
+User account: eylon.cyber1@gmail.com
+Account type: com.google
+User account: michael.ciber123@gmail.com
+Account type: com.google
